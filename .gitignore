@@ -40,3 +40,5 @@ Thumbs.db
 cscope.*
 Session.vim
 UPSTREAM.blink
+runtime/android/core_shell/gen/*
+runtime/android/core_shell/.idea
