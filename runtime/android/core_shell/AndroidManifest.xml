@@ -12,7 +12,7 @@
     <application android:name="android.app.Application"
         android:label="XWalkCoreShell" android:hardwareAccelerated="true">
         <activity android:name="org.xwalk.core.xwview.shell.XWalkViewShellActivity"
-            android:theme="@android:style/Theme.Holo.Light"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize"
             android:label="XWalkCoreShell">
           <intent-filter>
