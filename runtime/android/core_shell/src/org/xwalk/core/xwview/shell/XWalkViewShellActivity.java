@@ -6,6 +6,7 @@ package org.xwalk.core.xwview.shell;
 
 import java.util.HashMap;
 
+import android.app.Activity;
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
 import android.app.FragmentTransaction;
